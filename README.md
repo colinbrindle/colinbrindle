@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @colinbrindle
+- 👋 Hi, I’m <strong>@colinbrindle<strong>
 - 🌱 I’m currently learning how to code!
-- 📁 Check out [my portfolio](https://colinbrindle.github.io/css-portfolio/)
+- 📁 Check out <strong>[my portfolio](https://colinbrindle.github.io/css-portfolio/)</strong>
+- 🤝 Connect with me on <strong>[LinkedIn](https://linkedin.com/in/colinbrindle)</strong>
 
 <!---
 colinbrindle/colinbrindle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
