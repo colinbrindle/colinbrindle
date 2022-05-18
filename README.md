@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <strong>@colinbrindle<strong>
+- 👋 Hi, I’m **@colinbrindle**
 - 🌱 I’m currently learning how to code!
 - 📁 Check out **[my portfolio](https://colinbrindle.github.io/css-portfolio/)**
 - 🤝 Connect with me on **[LinkedIn](https://linkedin.com/in/colinbrindle)**
