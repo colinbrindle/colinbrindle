@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@colinbrindle**
 - 🌱 I’m currently learning how to code!
-- 📁 Check out **[my portfolio](https://colinbrindle.herokuapp.com)**
+- 📁 Check out **[my portfolio](https://colinbrindle.com)**
 - 🤝 Connect with me on **[LinkedIn](https://linkedin.com/in/colinbrindle)**
 
 <!---
