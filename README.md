@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@colinbrindle**
-- 🌱 I’m currently learning how to code!
+- 💻 I'm a full stack web developer with a penchant for front end design!
 - 📁 Check out **[my portfolio](https://colinbrindle.com)**
 - 🤝 Connect with me on **[LinkedIn](https://linkedin.com/in/colinbrindle)**
 
